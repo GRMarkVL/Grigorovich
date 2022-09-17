@@ -1,0 +1,15 @@
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/bin/Debug/net6.0/ItogovayaGR
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/bin/Debug/net6.0/ItogovayaGR.deps.json
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/bin/Debug/net6.0/ItogovayaGR.runtimeconfig.json
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/bin/Debug/net6.0/ItogovayaGR.dll
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/bin/Debug/net6.0/ItogovayaGR.pdb
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.csproj.AssemblyReference.cache
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.AssemblyInfoInputs.cache
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.AssemblyInfo.cs
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.csproj.CoreCompileInputs.cache
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.dll
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/refint/ItogovayaGR.dll
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.pdb
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ItogovayaGR.genruntimeconfig.cache
+/home/mark/Рабочий стол/учёба/Grigorovich/ItogovayaGR/obj/Debug/net6.0/ref/ItogovayaGR.dll
